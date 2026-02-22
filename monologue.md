@@ -15,6 +15,6 @@ Compacted from older log entries. Persistent signals and recurring interests.
 Max ~20 entries. When full, compact the oldest entries into Themes above, then remove them.
 
 - [2026-02-22] User: code-audit created — verify outsourced dev work via git history analysis, future marketplace for ranked devs — code-audit, new product
-- [2026-02-22] Dan: geo-web created — GEO audit as standalone web app, anonymous MVP first — geo-web, product
-- [2026-02-22] Dan: director should capture the "room vibe" across sessions — director, meta
-- [2026-02-22] Dan: monologue should be per-repo, not just central — director, meta
+- [2026-02-22] Zac: geo-web created — GEO audit as standalone web app, anonymous MVP first — geo-web, product
+- [2026-02-22] Zac: director should capture the "room vibe" across sessions — director, meta
+- [2026-02-22] Zac: monologue should be per-repo, not just central — director, meta
