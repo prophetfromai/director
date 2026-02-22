@@ -34,6 +34,12 @@
   github: https://github.com/prophetfromai/showgo
   description: Events/show management platform
 
+- name: code-audit
+  type: tool
+  status: active
+  github: https://github.com/prophetfromai/code-audit
+  description: Git history vs work-requested audit tool — verify outsourced dev work was done
+
 # --- Tools ---
 
 - name: journal
