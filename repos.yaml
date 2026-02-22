@@ -1,0 +1,133 @@
+# Repository Registry
+# Single source of truth for all repos under /Users/qualitydrivensoftwareltd/git/
+# Updated programmatically by the director agent.
+
+# --- Products ---
+
+- name: vdi_check
+  type: product
+  status: active
+  github: https://github.com/pandemicGander/vdi_check
+  description: Vehicle data intelligence checks (vdi-check.com)
+
+- name: GEO
+  type: product
+  status: active
+  github: https://github.com/prophetfromai/GEO
+  description: Generative Engine Optimisation audit tool
+
+- name: safecarcheck
+  type: product
+  status: active
+  github: https://github.com/pandemicGander/safecarcheck
+  description: Safe car check service
+
+- name: showgo
+  type: product
+  status: active
+  github: https://github.com/prophetfromai/showgo
+  description: Events/show management platform
+
+# --- Tools ---
+
+- name: journal
+  type: tool
+  status: active
+  github: https://github.com/prophetfromai/journal
+  description: Journaling tool
+
+- name: qr_code_generator
+  type: tool
+  status: active
+  github: https://github.com/prophetfromai/qr_code_generator
+  description: QR code generator
+
+- name: starlearn
+  type: tool
+  status: active
+  github: https://github.com/prophetfromai/starlearn
+  description: Learning platform
+
+- name: market_researcher
+  type: tool
+  status: active
+  github: https://github.com/prophetfromai/market_researcher
+  description: Market research tool
+
+- name: pf_agent
+  type: tool
+  status: active
+  github: https://github.com/prophetfromai/pf_agent
+  description: ProphetFromAI agent
+
+# --- Infrastructure ---
+
+- name: director
+  type: infrastructure
+  status: active
+  github: https://github.com/prophetfromai/director
+  description: Command center — portfolio management and repo orchestration
+
+- name: claude.md
+  type: infrastructure
+  status: active
+  github: https://github.com/prophetfromai/claude.md
+  description: Central knowledge base — shared brain across all projects
+
+- name: project-template
+  type: infrastructure
+  status: active
+  github: https://github.com/prophetfromai/project-template
+  description: GitHub template for new product repos
+
+- name: builder
+  type: infrastructure
+  status: active
+  github: https://github.com/prophetfromai/builder
+  description: Automated build system
+
+- name: pipeline
+  type: infrastructure
+  status: active
+  github: https://github.com/prophetfromai/pipeline
+  description: Message pipeline for builder
+
+# --- Client ---
+
+- name: car_dealer_starter
+  type: client
+  status: paused
+  github: https://github.com/pandemicGander/car_dealer_starter
+  description: Car dealer website starter
+
+- name: zac_car_dealer_starter
+  type: client
+  status: paused
+  github: https://github.com/prophetfromai/zac_car_dealer_starter
+  description: Car dealer website starter (Zac's version)
+
+- name: helenazacwedding
+  type: client
+  status: archived
+  github: https://github.com/prophetfromai/helenazacwedding
+  description: Wedding website
+
+# --- Experiments ---
+
+- name: ConsentLoop
+  type: experiment
+  status: paused
+  github: https://github.com/prophetfromai/ConsentLoop
+  description: Consent management prototype
+
+- name: ConsentLoopNew
+  type: experiment
+  status: paused
+  github: https://github.com/prophetfromai/ConsentLoopNew
+  description: Consent management prototype (v2)
+
+- name: prophetfromai
+  type: infrastructure
+  status: paused
+  github: https://github.com/prophetfromai/prophetfromai
+  description: GitHub profile repo (empty)
