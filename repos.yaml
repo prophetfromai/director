@@ -14,7 +14,13 @@
   type: product
   status: active
   github: https://github.com/prophetfromai/GEO
-  description: Generative Engine Optimisation audit tool
+  description: Generative Engine Optimisation audit tool (CLI)
+
+- name: geo-web
+  type: product
+  status: active
+  github: https://github.com/prophetfromai/geo-web
+  description: GEO audit web app — paste a URL, get an AI search visibility report
 
 - name: safecarcheck
   type: product
