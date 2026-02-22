@@ -21,7 +21,7 @@ When the user asks to create a new product/project:
    ```bash
    gh repo create prophetfromai/<name> --public --template prophetfromai/project-template --clone --clone-dir /Users/qualitydrivensoftwareltd/git/<name>
    ```
-2. Fill in the `{placeholders}` in the new repo's `CLAUDE.md`
+2. Fill in the `{placeholders}` in the new repo's `CLAUDE.md` — especially the **Summary** section (vision, scope, MVP, future direction). This is the single place any session or person goes to understand what the project is and where it's heading.
 3. Add the repo to `repos.yaml` in this director repo
 4. Commit and push both the new repo and this director repo
 
