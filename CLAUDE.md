@@ -41,6 +41,19 @@ Repos are categorised in `repos.yaml` by **type** and **status**:
 - `paused` — on hold, may resume
 - `archived` — no longer maintained
 
+## Monologue
+
+Every repo has its own `monologue.md`. Director's is the **portfolio-level** one — cross-product ideas, new product thoughts, strategic direction, and themes that don't belong to a single repo.
+
+**Reading:** Scan `monologue.md` before any strategic discussion, new product idea, or portfolio-level decision. It's cheap context.
+
+**Writing:** When someone raises an idea, changes direction, or expresses intent — append a one-liner to the top of the log:
+```
+- [YYYY-MM-DD] Name: the gist in very few words — related product/idea
+```
+
+Don't over-document. Only capture signal: new ideas, shifts in direction, recurring themes, or decisions. Skip routine implementation chatter.
+
 ## Reading repos.yaml
 
 Before any discussion about the portfolio, repo organisation, or creating something new — read `repos.yaml` first for current state.
