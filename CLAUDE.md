@@ -43,18 +43,7 @@ Repos are categorised in `repos.yaml` by **type** and **status**:
 
 ## Monologue
 
-Every repo has its own `monologue.md`. Director's is the **portfolio-level** one — cross-product ideas, new product thoughts, strategic direction, and themes that don't belong to a single repo.
-
-**Reading:** Scan `monologue.md` before any strategic discussion, new product idea, or portfolio-level decision. It's cheap context.
-
-**Writing:** When someone raises an idea, changes direction, or expresses intent — append a one-liner to the top of the Log section:
-```
-- [YYYY-MM-DD] Name: the gist in very few words — related product/idea
-```
-
-**Compaction:** The Log section holds max ~20 entries. When it's full, distill the oldest entries into the Themes section (a few words each — merge with existing themes where they overlap), then remove them from the Log. Themes stays short: persistent signals only, not a full history.
-
-Don't over-document. Only capture signal: new ideas, shifts in direction, recurring themes, or decisions. Skip routine implementation chatter.
+`monologue.md` is the **portfolio-level** log — cross-product ideas, strategic direction, and themes that don't belong to a single repo. Scan it before any strategic discussion or new product idea. See `topics/conventions/` in the central repo for the full protocol.
 
 ## Reading repos.yaml
 
