@@ -72,6 +72,14 @@
   github: https://github.com/prophetfromai/pf_agent
   description: ProphetFromAI agent
 
+# --- Content ---
+
+- name: youtube
+  type: product
+  status: active
+  github: https://github.com/prophetfromai/youtube
+  description: YouTube channel content planning, scripts, and episode tracking
+
 # --- Infrastructure ---
 
 - name: director
