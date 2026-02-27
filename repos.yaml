@@ -80,6 +80,12 @@
   github: https://github.com/prophetfromai/youtube
   description: YouTube channel content planning, scripts, and episode tracking
 
+- name: storytelling_and_statistics
+  type: product
+  status: active
+  github: https://github.com/prophetfromai/storytelling_and_statistics
+  description: Personal journal and creative studio — AI-augmented storytelling, real stats, every format. Home of what-i-am-worth.com
+
 # --- Infrastructure ---
 
 - name: director
